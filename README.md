@@ -1,3 +1,3 @@
 # Final-Project
 
-html - css - bootstrap - axios -npm 
+html - css - bootstrap - JS - axios -npm 
